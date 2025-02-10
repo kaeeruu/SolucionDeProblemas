@@ -10,10 +10,10 @@ a la escuela Mousinho da Silveira (MS).
 indica de dos a cinco horas, 3 indica de cinco a diez horas, 4 indica más de diez horas.
 - “Reprobadas”. Indica la cantidad de materias reprobadas previamente.
 - “Internet”. Si el estudiante tenía acceso (yes) o no (no) a internet en su casa.
- “Faltas”. Cantidad de veces que faltó a clases.
- “G1”. Calificación del primer periodo, escala del 0 al 20.
- “G2”. Calificación del segundo periodo, escala del 0 al 20.
- “G3”. Calificación final, escala del 0 al 20.
+- “Faltas”. Cantidad de veces que faltó a clases.
+- “G1”. Calificación del primer periodo, escala del 0 al 20.
+- “G2”. Calificación del segundo periodo, escala del 0 al 20.
+- “G3”. Calificación final, escala del 0 al 20.
 
 Este proyecto incluye los siguientes documentos:
 - [Reporte en formato ipynb](A1_5_Solución_de_problemas.ipynb)
